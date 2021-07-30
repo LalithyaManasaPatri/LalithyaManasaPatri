@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LalithyaManasaPatri
-- 👀 I’m interested in learning about new technolies
+- 👀 I’m interested in learning about new technologies
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me ...
